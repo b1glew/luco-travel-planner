@@ -1,0 +1,281 @@
+{
+  "__metadata__": {
+    "last_open_trip": "Ski Trip 2026"
+  },
+  "Ski Trip 2026": {
+    "name": "Ski Trip 2026",
+    "description": "",
+    "travellers": [
+      {
+        "name": "Mike",
+        "selectedOptions": [
+          "Skis & Poles",
+          "Equipment Insurance"
+        ],
+        "roomType": "Double (Private)"
+      },
+      {
+        "name": "Doran",
+        "selectedOptions": [
+          "Ski, Poles & Boots",
+          "Equipment Insurance"
+        ],
+        "roomType": "Bunks (Shared)"
+      },
+      {
+        "name": "Ian",
+        "selectedOptions": [
+          "Sports Luggage"
+        ],
+        "roomType": "Twin (Shared)"
+      },
+      {
+        "name": "Jim",
+        "selectedOptions": [
+          "Snowboard",
+          "Equipment Insurance"
+        ],
+        "roomType": "Bunks (Shared)"
+      },
+      {
+        "name": "Tom",
+        "selectedOptions": [
+          "Ski, Poles & Boots",
+          "Equipment Insurance"
+        ],
+        "roomType": "Double (Private)"
+      },
+      {
+        "name": "Chris",
+        "selectedOptions": [
+          "Ski, Poles & Boots",
+          "Equipment Insurance"
+        ],
+        "roomType": "Double (Private)"
+      },
+      {
+        "name": "Rob",
+        "selectedOptions": [
+          "Sports Luggage"
+        ],
+        "roomType": "Bunks (Shared)"
+      },
+      {
+        "name": "Finn",
+        "selectedOptions": [
+          "Ski, Poles & Boots",
+          "Equipment Insurance"
+        ],
+        "roomType": "Bunks (Shared)"
+      },
+      {
+        "name": "Paul",
+        "selectedOptions": [
+          "Skis & Poles",
+          "Equipment Insurance"
+        ],
+        "roomType": "Bunks (Shared)"
+      },
+      {
+        "name": "Josh",
+        "selectedOptions": [
+          "Sports Luggage"
+        ],
+        "roomType": "Bunks (Shared)"
+      },
+      {
+        "name": "Karl",
+        "selectedOptions": [
+          "Sports Luggage"
+        ],
+        "roomType": "Twin (Shared)"
+      },
+      {
+        "name": "Henry",
+        "selectedOptions": [
+          "Skis & Poles",
+          "Equipment Insurance"
+        ],
+        "roomType": "Double (Private)"
+      },
+      {
+        "name": "Lewis",
+        "selectedOptions": [
+          "Skis & Poles",
+          "Equipment Insurance"
+        ],
+        "roomType": "Double (Private)"
+      }
+    ],
+    "costItems": [
+      {
+        "name": "Flights",
+        "category": "Flights",
+        "amount": 200.0,
+        "currency": "GBP",
+        "costType": "per_person",
+        "depositRatio": 1.0,
+        "discountRatio": 0.0
+      },
+      {
+        "name": "Car Rental 1",
+        "category": "Transport",
+        "amount": 427.0,
+        "currency": "GBP",
+        "costType": "group_total",
+        "depositRatio": 0.0,
+        "discountRatio": 0.0
+      },
+      {
+        "name": "Car Rental 2",
+        "category": "Transport",
+        "amount": 427.0,
+        "currency": "GBP",
+        "costType": "group_total",
+        "depositRatio": 0.0,
+        "discountRatio": 0.0
+      },
+      {
+        "name": "Fuel",
+        "category": "Transport",
+        "amount": 80.0,
+        "currency": "EUR",
+        "costType": "group_total",
+        "depositRatio": 0.0,
+        "discountRatio": 0.0
+      },
+      {
+        "name": "Tolls",
+        "category": "Transport",
+        "amount": 80.0,
+        "currency": "EUR",
+        "costType": "group_total",
+        "depositRatio": 0.0,
+        "discountRatio": 0.0
+      },
+      {
+        "name": "Lift Pass",
+        "category": "Equipment",
+        "amount": 207.0,
+        "currency": "EUR",
+        "costType": "per_person",
+        "depositRatio": 0.0,
+        "discountRatio": 0.0
+      },
+      {
+        "name": "Admin Fees",
+        "category": "Misc",
+        "amount": 30.0,
+        "currency": "EUR",
+        "costType": "group_total",
+        "depositRatio": 0.0,
+        "discountRatio": 0.0
+      },
+      {
+        "name": "Tourist Tax",
+        "category": "Misc",
+        "amount": 374.0,
+        "currency": "EUR",
+        "costType": "group_total",
+        "depositRatio": 0.0,
+        "discountRatio": 0.0
+      },
+      {
+        "name": "Cancellation",
+        "category": "Misc",
+        "amount": 223.0,
+        "currency": "EUR",
+        "costType": "group_total",
+        "depositRatio": 0.0,
+        "discountRatio": 0.0
+      },
+      {
+        "name": "Fee",
+        "category": "Misc",
+        "amount": 15.0,
+        "currency": "GBP",
+        "costType": "per_person",
+        "depositRatio": 0.0,
+        "discountRatio": 0.0
+      }
+    ],
+    "options": [
+      {
+        "name": "Skis & Poles",
+        "cost": 97.0,
+        "currency": "EUR",
+        "depositRatio": 0.0
+      },
+      {
+        "name": "Ski, Poles & Boots",
+        "cost": 123.0,
+        "currency": "EUR",
+        "depositRatio": 0.0
+      },
+      {
+        "name": "Snowboard",
+        "cost": 97.0,
+        "currency": "EUR",
+        "depositRatio": 0.0
+      },
+      {
+        "name": "Snowboard & Boots",
+        "cost": 97.0,
+        "currency": "EUR",
+        "depositRatio": 0.0
+      },
+      {
+        "name": "Sports Luggage",
+        "cost": 86.0,
+        "currency": "GBP",
+        "depositRatio": 0.0
+      },
+      {
+        "name": "Equipment Insurance",
+        "cost": 14.0,
+        "currency": "EUR",
+        "depositRatio": 0.0
+      }
+    ],
+    "accommodation": {
+      "totalCost": 7200.0,
+      "currency": "EUR",
+      "roomTypes": {
+        "Double (Private)": {
+          "name": "Double (Private)",
+          "roomCount": 5,
+          "bedsPerRoom": 1,
+          "weighting": 2.0
+        },
+        "Twin (Shared)": {
+          "name": "Twin (Shared)",
+          "roomCount": 1,
+          "bedsPerRoom": 2,
+          "weighting": 1.5
+        },
+        "Bunks (Shared)": {
+          "name": "Bunks (Shared)",
+          "roomCount": 1,
+          "bedsPerRoom": 6,
+          "weighting": 1.0
+        }
+      },
+      "depositRatio": 0.33
+    },
+    "categories": [
+      "Flights",
+      "Accommodation",
+      "Equipment",
+      "Food",
+      "Transport",
+      "Misc"
+    ],
+    "baseCurrency": "GBP",
+    "exchangeRates": {
+      "EUR_GBP": 0.8547008547008548
+    },
+    "notes": "",
+    "startDate": "2026-01-03",
+    "endDate": "2026-01-10"
+  }
+}
